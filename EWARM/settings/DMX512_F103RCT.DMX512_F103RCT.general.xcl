@@ -1,0 +1,15 @@
+"D:\IAR Systems\Embedded Workbench 8.1\arm\bin\armproc.dll" 
+
+"D:\IAR Systems\Embedded Workbench 8.1\arm\bin\armstlink2.dll" 
+
+"E:\01 DMX512\DMX512\WorkSpace\WorkSpace\EWARM\DMX512_F103RCT\Exe\DMX512_F103RCT.out" 
+
+--plugin="D:\IAR Systems\Embedded Workbench 8.1\arm\bin\armbat.dll" 
+
+--device_macro="D:\IAR Systems\Embedded Workbench 8.1\arm\config\debugger\ST\STM32F1xx.dmac" 
+
+--flash_loader="D:\IAR Systems\Embedded Workbench 8.1\arm\config\flashloader\ST\FlashSTM32F10xxC.board" 
+
+
+
+
